@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #e6f7ff;
+}
+
+header{
+    background: #70bfff;
+    padding: 10px;
+}
+
+#logo{
+    padding: 20px;
+}
+
+#menu{
+    float: right;
+}
+
+a{
+    text-decoration: none;
+    list-style: none;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline-block;
+    padding: 10px;
+}
+
+#texto{
+    padding: 5%;
+    width: 600px;
+    float: right;
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+h2{
+    color: #1c246b;
+    font-size: 25px;
+    padding: 50px;
+}
+
+p{
+    padding: 5px;
+    float: left;
+}
+
+.saibaMais{
+    padding: 80px;
+    float: right;
+}
+
+img{
+    float: right;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+    padding: 10px;
+}
+
+footer{
+   clear: both;
+}
+
+.footer-text{
+    background: #1c246b;
+    color: #e6f7ff;
+    text-align: center;
+    padding: 8px;
+    width: 100%;
+}
